@@ -27,4 +27,4 @@
 ---
 
 📍 Mogi das Cruzes – SP  
-📫 Me encontre também no [LinkedIn](https://www.linkedin.com/leonardo-siqueira-ribeiro-dos-santos-7620a9224/)
+📫 Me encontre também no [LinkedIn](https://www.linkedin.com/in/leonardo-siqueira-ribeiro-dos-santos-7620a9224/)
