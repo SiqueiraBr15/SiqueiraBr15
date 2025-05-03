@@ -19,8 +19,7 @@
 
 ### 📌 Projetos em Destaque
 
-- 📈 Bot de Análise de Bitcoin com indicadores técnicos e envio via WhatsApp  
-- 🚌 Dashboard estatístico com dados reais da SPTrans  
+- 📈 Bot de Análise de Bitcoin com indicadores técnicos e envio via WhatsApp   
 - 📘 Projetos educacionais aplicados com o PIBID – Matemática  
 - 🌎 [Análise socioeconômica da América Latina + México (Google Colab)](https://colab.research.google.com/drive/1y-nM7-cxt5738XMb_a0Lc0TCyLeV4Hld?usp=sharing)
 
