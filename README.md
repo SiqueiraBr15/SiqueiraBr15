@@ -1,29 +1,89 @@
-### Olá! Eu sou o Leonardo 👋
+👋 Olá! Eu sou o Leonardo
 
-🎓 Pós-graduando em Engenharia de Dados (conclusão em fev/2026)  
-💻 Graduado em Análise e Desenvolvimento de Sistemas – UMC  
-📚 Licenciando em Matemática (último ano) – IFSP  
-🔌 Técnico em Eletroeletrônica – SENAI  
-👨‍🏫 Bolsista no Programa PIBID – Matemática (IFSP)
+Sou Analista de Dados / BI com formação sólida em tecnologia e matemática, focado em análise de dados, visualização de informações e automação, apoiando a tomada de decisão com dados.
 
----
+🎓 Pós-graduando em Engenharia de Dados (conclusão: fev/2026)
+💻 Graduado em Análise e Desenvolvimento de Sistemas – UMC
+📚 Licenciando em Matemática (último ano) – IFSP
+🔌 Técnico em Eletroeletrônica – SENAI
+👨‍🏫 Bolsista PIBID – Matemática (IFSP)
 
-### 🚀 Tecnologias e Ferramentas
+🚀 Tecnologias e Ferramentas
+💻 Linguagens
 
-- 💻 Linguagens: **Python**, **PHP**, **SQL**, **HTML**, **CSS**, **Dart**, **Flutter**
-- 🔍 Banco de Dados: **MySQL**
-- 📊 Ferramentas: **Power BI**, **Excel**, **LaTeX**, **Git**
-- 🤖 Projetos com: indicadores técnicos, automações, web e análise de dados
+Python
 
----
+SQL
 
-### 📌 Projetos em Destaque
+PHP
 
-- 📈 Bot de Análise de Bitcoin com indicadores técnicos e envio via WhatsApp   
-- 📘 Projetos educacionais aplicados com o PIBID – Matemática  
-- 🌎 [Análise socioeconômica da América Latina + México (Google Colab)](https://colab.research.google.com/drive/1y-nM7-cxt5738XMb_a0Lc0TCyLeV4Hld?usp=sharing)
+HTML | CSS
 
----
+Dart | Flutter
 
-📍 Mogi das Cruzes – SP  
-📫 Me encontre também no [LinkedIn](https://www.linkedin.com/in/leonardo-siqueira-ribeiro-dos-santos-7620a9224/)
+🗄️ Banco de Dados
+
+MySQL
+
+📊 Dados & BI
+
+Power BI
+
+Excel
+
+Google Colab
+
+LaTeX
+
+🛠️ Ferramentas
+
+Git & GitHub
+
+VS Code
+
+📊 Atuação e Interesses
+
+Análise e tratamento de dados
+
+Criação de dashboards e indicadores (KPIs)
+
+Automação de rotinas e relatórios
+
+Integração de dados (Excel, SQL, APIs)
+
+Visualização de dados para apoio à decisão
+
+📌 Projetos em Destaque
+
+📈 Bot de Análise de Bitcoin
+
+Análise automática com indicadores técnicos, lógica de decisão e envio de alertas via WhatsApp.
+
+📘 Projetos Educacionais – PIBID (Matemática)
+
+Organização de dados educacionais, análise de desempenho e aplicação de práticas pedagógicas com apoio de dados.
+
+🌎 Análise Socioeconômica da América Latina + México
+👉 Google Colab
+
+📍 Localização
+
+Mogi das Cruzes – SP
+
+📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/leonardo-siqueira-ribeiro-dos-santos-7620a9224/
+
+💻 GitHub: https://github.com/SiqueiraBr15
+
+💡 Próximo passo (recomendado)
+
+Se quiser, eu posso:
+
+🔥 Adaptar esse README para vagas internacionais (inglês)
+
+📈 Criar uma seção “GitHub Stats”
+
+🧠 Reescrever focando 100% em Engenharia de Dados ou BI
+
+📝 Ajustar para combinar com vagas específicas (Júnior / Pleno)
