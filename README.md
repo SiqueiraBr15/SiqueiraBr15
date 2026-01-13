@@ -75,15 +75,3 @@ Mogi das Cruzes – SP
 💼 LinkedIn: https://www.linkedin.com/in/leonardo-siqueira-ribeiro-dos-santos-7620a9224/
 
 💻 GitHub: https://github.com/SiqueiraBr15
-
-💡 Próximo passo (recomendado)
-
-Se quiser, eu posso:
-
-🔥 Adaptar esse README para vagas internacionais (inglês)
-
-📈 Criar uma seção “GitHub Stats”
-
-🧠 Reescrever focando 100% em Engenharia de Dados ou BI
-
-📝 Ajustar para combinar com vagas específicas (Júnior / Pleno)
